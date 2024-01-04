@@ -72,6 +72,7 @@ func InitializeKeyspaceSession(config *AwsKeyspacesConfig) (*gocql.Session, erro
 
 	cluster.Consistency = gocql.LocalQuorum
 	cluster.DisableInitialHostLookup = false
+	cluster.ProtoVersion = 4
 
 	// Create a SigV4 gocql session
 	session, err := cluster.CreateSession()
