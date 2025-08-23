@@ -312,3 +312,4 @@ To execute the integration tests, you will need the `UPTIME_SERVICE_SECRET` pass
     ```
 
 > **Note:** Replace `YOUR_SECRET_HERE` with the appropriate value for `UPTIME_SERVICE_SECRET`.
+...
