@@ -1,5 +1,5 @@
 > ⚠️ **This repository is no longer maintained.**
-> Please refer to the actively maintained version at [https://github.com/o1-labs/seeds](https://github.com/o1-labs/uptime-service-backend).
+> Please refer to the actively maintained version at [https://github.com/o1-labs/uptime-service-backend](https://github.com/o1-labs/uptime-service-backend).
 
 # Uptime Service Backend
 
