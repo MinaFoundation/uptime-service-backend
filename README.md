@@ -1,3 +1,6 @@
+> ⚠️ **This repository is no longer maintained.**
+> Please refer to the actively maintained version at [https://github.com/o1-labs/seeds](https://github.com/o1-labs/uptime-service-backend).
+
 # Uptime Service Backend
 
 [![Build](https://github.com/MinaFoundation/uptime-service-backend/actions/workflows/build.yml/badge.svg)](https://github.com/MinaFoundation/uptime-service-backend/actions/workflows/build.yml)
